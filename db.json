@@ -1,0 +1,19 @@
+{
+    "users": [
+        {
+            "id": "01",
+            "firstName": "Tony",
+            "lastName": "Nguyen",
+            "email": "tonynguyen@gmail.com"
+        }
+    ],
+    "photos": [
+        {   
+            "id": "111",
+            "title":"Sport 1",
+            "category": "sports",
+            "description": "this is a sport picture",
+            "image": "http://placeimg.com/640/480/sports"
+        }
+    ]
+}
